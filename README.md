@@ -1,5 +1,6 @@
 # Robotics-hardware-lab-notes
-A hands-on engineering log where I document my daily progress in robotics hardware. Tracking microcontroller builds, circuit physics, kinematics and the physics behind each component through real experiments. A transparent record of what I build, how I debug it, and why it works.
+
+A hands-on engineering log where I document my daily progress in robotics hardware. Tracking microcontroller builds, circuit physics, kinematics and the physics behind each component through real experiments. **A transparent record of what I build, how I debug it, and why it works.**
 
 # 🔬 Robotics Hardware & Physics Engineering Journal
 
@@ -16,6 +17,7 @@ My objective is to systematically master robotics hardware from fundamental phys
 ## 🎯Every entry here combines:
 
 * 🛠️ **Hardware Builds & Working Projects:** Hands-on breadboarding, circuit prototypes, and working microcontroller code that I test and run directly on the bench.
+
 * 🔍 **Mistakes, Bugs & Debugging Logs:** A clear look at what went wrong when a circuit refused to turn on, a component overheated, or code behaved erratically. I record the measurements, the root cause of the error, and the fix that resolved it.
   
 * ⚛️ **Physics Notes Written in Plain English (For Future Me):** Personal notes unpacking what each part is actually doing under the hood before I wire it into a circuit.
