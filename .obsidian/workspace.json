@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Text-Theory-book/Electronics - 01/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,15 +199,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea40a18794be785a",
+  "active": "872f3830388c51e7",
   "lastOpenFiles": [
-    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/Untitled.md",
-    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/CORE 2.md",
-    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/The Formula sheet.md",
-    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/The Electric intro.md",
     "Text-Theory-book/DUMP THE CONCEPT.md",
+    "Text-Theory-book/Electronics - 01/The Formula sheet.md",
+    "Text-Theory-book/Electronics - 01/README.md",
+    "Text-Theory-book/Electronics - 01/Untitled.md",
+    "Text-Theory-book/Untitled",
+    "Text-Theory-book/Untitled.md",
+    "Text-Theory-book/Electronics - 01/other concepts.md",
+    "Text-Theory-book/Electronics - 01/Chapter-04_moving-charges-and-magnetism.md.md",
+    "Text-Theory-book/Electronics - 01/Chapter-03_current-electricity.md.md",
+    "Text-Theory-book/Electronics - 01/Chapter-02_electrostatic-potential-capacitance.md.md",
+    "Text-Theory-book/Electronics - 01/Chapter-01_electrostatics-and-fields.md.md",
+    "Text-Theory-book/Electronics - 01/Chapter-00.md.md",
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/CORE 2.md",
+    "Text-Theory-book/Electronics - 01",
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/The Core Basics.md",
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/The Formula sheet.md",
     "README.md",
-    "Text-Theory-book/README.md",
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/Untitled.md",
     "TO LEARN ( Electric-Phy ).md",
     "Untitled.base",
     "Untitled.md"
