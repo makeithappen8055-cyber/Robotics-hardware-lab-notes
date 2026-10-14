@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First-Principles-Physics/Electronics - 01/README.md.md",
+                "file": "First-Principles-Physics/Electronics - 01/Chapter-01_electrostatics-and-fields.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "Chapter-01_electrostatics-and-fields.md"
             }
           }
         ]
@@ -201,10 +201,10 @@
   },
   "active": "ea40a18794be785a",
   "lastOpenFiles": [
-    "README.md",
-    "First-Principles-Physics/Electronics - 01/Chapter-01_electrostatics-and-fields.md.md",
-    "First-Principles-Physics/Electronics - 01/README.md.md",
     "First-Principles-Physics/Electronics - 01/Chapter-00_overview.md.md",
+    "First-Principles-Physics/Electronics - 01/Chapter-01_electrostatics-and-fields.md.md",
+    "First-Principles-Physics/Electronics - 01/README.md",
+    "README.md",
     "First-Principles-Physics/Electronics - 01/The Formula sheet.md",
     "Text-Theory-book/Electronics - 01/README.md",
     "First-Principles-Physics/Electronics - 01/other concepts.md",
