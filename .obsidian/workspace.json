@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/THE CORE DEFINATION.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THE CORE DEFINATION"
+              "title": "README"
             }
           }
         ]
@@ -169,16 +169,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3f2e747d36bb6480",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,10 +199,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "872f3830388c51e7",
+  "active": "ea40a18794be785a",
   "lastOpenFiles": [
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/Untitled.md",
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/CORE 2.md",
     "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/The Formula sheet.md",
-    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/THE CORE DEFINATION.md",
-    "README.md"
+    "Text-Theory-book/Chapter 0 -- The Atomic Origin.md/The Electric intro.md",
+    "Text-Theory-book/DUMP THE CONCEPT.md",
+    "README.md",
+    "Text-Theory-book/README.md",
+    "TO LEARN ( Electric-Phy ).md",
+    "Untitled.base",
+    "Untitled.md"
   ]
 }

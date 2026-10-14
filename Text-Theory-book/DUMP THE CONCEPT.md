@@ -1,0 +1,1 @@
+When you get a little deeper into the science of electricity you learn that it is not the electrons that do the work it is an electrical wave that actually travels outside the wire. Basic electricity they use to teach that current is like water through a pipe but that is not the reality of it!
