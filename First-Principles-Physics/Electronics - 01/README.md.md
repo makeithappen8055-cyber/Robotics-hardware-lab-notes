@@ -6,7 +6,7 @@ This module houses the core physical principles behind every circuit, PCB trace,
 
 ---
 
-## 🧭 The 4-Week Curriculum & Core Chapters
+## 🧭 Chapters
 
 | Chapter | Physics Theory | Hardware & Engineering Reality |
 | :--- | :--- | :--- |
