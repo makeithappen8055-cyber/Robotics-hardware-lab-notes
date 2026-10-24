@@ -1,5 +1,5 @@
 
-# ⚡ Chapter 1: Fundamentals of Electricity (Part 1)
+# ⚡ Fundamentals of Electricity 
 
 > [!quote] Engineering Philosophy
 > *"To truly invent new hardware, one must not merely connect components—one must understand the physical laws governing them down to the electron level."*[cite: 2]
