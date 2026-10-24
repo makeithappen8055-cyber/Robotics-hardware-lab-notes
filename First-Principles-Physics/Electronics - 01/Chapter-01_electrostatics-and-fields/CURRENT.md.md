@@ -1,58 +1,3 @@
-### 📖 Introduction
-
-**Electrostatics** is the branch of physics that deals with the study of static (stationary) electric charges. This chapter lays the foundation by exploring the nature of **electric charge**, the behavior of **charged bodies**, and the **fundamental electric forces** acting between them.
-
-### 🔋 What is Electric Charge?
-
-**Electric Charge** is an intrinsic, fundamental property of matter responsible for generating electric forces between objects.
-
-- **Example:** When two electrons are placed at a small separation, they exert a repulsive electric force on one another solely due to the electric charge they carry.
-
-### ⚛️ Fundamental Properties of Electric Charge
-
-#### 1. Dual Nature (Polarity)
-
-There are two distinct types of electric charges in nature. By convention:
-- **Proton ($p^+$):** Assigned a **positive ($+$)** charge.
-- **Electron ($e^-$):** Assigned a **negative ($-$)** charge.
-
-#### 2. Fundamental Law of Interaction
-
-- **Like charges repel** each other ($+ \leftrightarrow +$ or $- \leftrightarrow -$).
-- **Unlike charges attract** each other ($+ \rightarrow \leftarrow -$).
-
-#### 3. Quantization of Charge
-
-An electrically charged object always possesses an excess or deficiency of a **whole number** of electrons. Because an electron cannot be divided into fractions, the total charge on any body is always an integral multiple of the elementary charge of a single electron.
-
-- _Invalid charges:_ You can never observe a charge equivalent to $0.5$ or $1000.5$ electrons.
-- **Mathematical Formulation:**$$q = \pm ne$$
-    - $q$ = Total charge on the body
-    - $n = 1, 2, 3, \dots$ (number of electrons transferred)
-    - $e = 1.6 \times 10^{-19}\text{ C}$ (elementary charge in Coulombs)
-
-#### 4. Conservation of Electric Charge
-
-When an object becomes charged, **no electrons are ever created or destroyed**—they are merely transferred from one material to another. Whether at a macroscopic circuit level or a subatomic nuclear level, the total electric charge of an isolated system remains strictly constant.
-
-#### 5. Relativistic Invariance (Non-Relativistic Nature)
-
-Unlike mass, **electric charge is independent of the velocity of the object**. According to Einstein's Theory of Special Relativity, the mass ($m$) of a moving body varies with its speed ($v$) relative to the speed of light ($c$):
-$$m = \frac{m_0}{\sqrt{1 - \frac{v^2}{c^2}}}$$
-While mass increases at high velocities, **electric charge remains completely invariant** ($q_{\text{moving}} = q_{\text{rest}}$).
-
----
-title: "Chapter 2: Electric Current, Charge Flow & Engineering Notation"
-date: 2026-10-24
-tags:
-  - robotics-hardware
-  - electronics/dc-circuits
-  - physics/current-electricity
-  - lecture-notes
-source: "http://www.youtube.com/watch?v=nb4ovfwqup8"
-progress: "01:07:00 - 01:57:00"
-status: completed
----
 
 # ⚡ Electric Current, Charge Flow & Engineering Notation
 
@@ -86,7 +31,7 @@ status: completed
 
 ---
 
-## 📦 4. The Coulomb ($Q$) & The Ampere ($I$) 
+## 📦 2. The Coulomb ($Q$) & The Ampere ($I$) 
 
 ### A. The Coulomb ($C$ or $Q$) — *The Batch Count of Electrons*
 Just as we buy eggs by the dozen or fuel by the gallon, individual electrons are far too small to count one by one  We measure bulk electric charge ($Q$) in **Coulombs ($C$)**, named after Charles-Augustin de Coulomb
@@ -120,7 +65,7 @@ $$\mathbf{I = \frac{Q}{t}}$$
 > 
 
 
-## 🕳️ 5. Electron Flow vs. Hole Flow 
+## 🕳️ 3. Electron Flow vs. Hole Flow 
 
 When an electron is knocked loose from a neutral atom and jumps to the next atom toward the positive terminal, it leaves behind a vacancy called a **[[Hole]]** (the absence of an electron)
 ```
@@ -145,7 +90,7 @@ When an electron is knocked loose from a neutral atom and jumps to the next atom
 
 ---
 
-## 🚀 6. How Current Travels Through a Conductor
+## 🚀 4. How Current Travels Through a Conductor
 
 * **The billiard-ball / table-push intuition:** While textbooks sometimes call current "electron drift," the *effect* of current across a circuit is not a slow, lazy float—it is felt almost **instantaneously** from one end of the wire to the other, like pushing one end of a rigid table and someone feeling the push immediately at the other end 
 * **Speed of Electromagnetic Propagation (Speed of Light $c$):**
@@ -155,7 +100,7 @@ When an electron is knocked loose from a neutral atom and jumps to the next atom
 
 ---
 
-## 🔋 7. The Voltage Source & Fluid Pump Analogy 
+## 🔋 5. The Voltage Source & Fluid Pump Analogy 
 
 To sustain continuous current flow, a circuit requires a valid **[[Voltage Source]]** (such as a battery or DC power supply) and an **[[Electrical Load]]
 ```mermaid
@@ -169,7 +114,7 @@ graph LR
 
 ---
 
-## 🔢 8. Scientific vs. Engineering Notation 
+## 🔢 6. Scientific vs. Engineering Notation 
 
 * **Scientific Notation:** Uses any integer power of ten ($10^1, 10^2, 10^4, 10^5$, etc.) 
 * **[[Engineering Notation]]:** Strictly groups exponents of $10$ into **multiples of three** ($10^3, 10^6, 10^9, 10^{12}$ and $10^{-3}, 10^{-6}, 10^{-9}, 10^{-12}$) so every number maps directly to a standard metric prefix 
