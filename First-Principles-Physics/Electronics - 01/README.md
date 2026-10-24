@@ -19,7 +19,7 @@ This module houses the core physical principles behind every circuit, PCB trace,
 
 ## 📐 Quick Reference
 
-* **[`The Formula sheet`](./The%20Formula%20sheet)**: Benchside cheat sheet containing essential governing formulas, vector definitions, boundary rules, and SI constants for fast circuit calculations.
+* **[`The Formula sheet`](The%20Formula%20sheet.md.md)**: Benchside cheat sheet containing essential governing formulas, vector definitions, boundary rules, and SI constants for fast circuit calculations.
 
 ---
 

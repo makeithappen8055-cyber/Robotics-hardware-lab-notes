@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First-Principles-Physics/Electronics - 01/Chapter-00_fundamentals/Fundamentals of Electrostatics.md.md",
+                "file": "First-Principles-Physics/Electronics - 01/other concepts.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals of Electrostatics.md"
+              "title": "other concepts.md"
             }
           }
         ],
@@ -214,21 +214,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9729ce3b6bc047f7",
+  "active": "872f3830388c51e7",
   "lastOpenFiles": [
+    "First-Principles-Physics/DUMP THE CONCEPT.md.md",
+    "First-Principles-Physics/Electronics - 01/The Formula sheet.md.md",
+    "First-Principles-Physics/Electronics - 01/README.md",
+    "First-Principles-Physics/Electronics - 01/Chapter-00_fundamentals/Fundamentals of Electrostatics.md.md",
     "First-Principles-Physics/Electronics - 01/Chapter-00_fundamentals/Fundamentals of Electronics.md.md",
     "First-Principles-Physics/Electronics - 01/Chapter-01_electrostatics-and-fields/CURRENT.md.md",
-    "First-Principles-Physics/Electronics - 01/Chapter-00_fundamentals/Fundamentals of Electrostatics.md.md",
     "First-Principles-Physics/Electronics - 01/Chapter-01_electrostatics-and-fields/Voltage.md.md",
     "First-Principles-Physics/Electronics - 01/Chapter-02_electrostatic-potential-capacitance.md.md",
     "Arduino Classes/know the components.md.md",
     "Untitled.md",
     "README.md",
     "Arduino Classes",
-    "First-Principles-Physics/Electronics - 01/other concepts.md",
-    "First-Principles-Physics/Electronics - 01/The Formula sheet.md",
-    "First-Principles-Physics/Electronics - 01/README.md",
-    "First-Principles-Physics/DUMP THE CONCEPT.md",
+    "First-Principles-Physics/Electronics - 01/other concepts.md.md",
     "First-Principles-Physics/Electronics - 01/Untitled.md",
     "First-Principles-Physics/Electronics - 01/Chapter-01_electrostatics-and-fields",
     "First-Principles-Physics/Electronics - 01/Chapter-00_overview/Untitled.md",
