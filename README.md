@@ -29,3 +29,39 @@ My objective is to systematically master robotics hardware from fundamental phys
 **Immediate Goal:** Build genuine, under-the-hood intuition so I can build complete hardware projects entirely on my own, handle real-world circuit diagnostics with bench instruments, and contribute meaningfully to robotics research labs and challenges.
 
 **Long-Term Vision:** Achieve true hardware independence—understanding the physical, electronic, and mechanical principles so deeply that I can move past following tutorials and start inventing, designing, and bringing novel robotic systems to life from my own original ideas.
+
+---
+
+## 🏛️ Pillar 1: Electrostatics & Electrodynamics (Core Physics)
+*First-principles field theory and mathematical laws.*
+
+- [ ] **Chapter 01:** Electric Charges & Fields
+- [ ] **Chapter 02:** Electrostatic Potential & Capacitance
+- [ ] **Chapter 03:** Current Electricity & Carrier Drift
+- [ ] **Chapter 04:** Moving Charges & Magnetism
+- [ ] **Reference:** The Physics Formula Sheet
+
+---
+
+## ⚡ Pillar 2: Fundamentals of Electronics (Circuit Engineering)
+*Component physics, DC network analysis, and hardware intuition.*
+
+- [ ] **Chapter 01:** Matter, Atomic Structure & Material Conductivity
+- [ ] **Chapter 02:** Electric Current, Charge Flow & Engineering Notation
+- [ ] **Chapter 03:** Voltage Sources, Cells & Ground References
+- [ ] **Chapter 04:** Resistance, Resistors & Network Topologies
+- [ ] **Chapter 05:** Ohm’s Law & Kirchhoff’s Circuit Laws (KVL / KCL)
+- [ ] **Chapter 06:** Digital Multimeters (DMM) & Bench Measurement
+- [ ] **Chapter 07:** Electrical Power & Thermal Dissipation
+- [ ] **Chapter 08:** DC Series-Parallel Circuits & Loaded Voltage Dividers
+- [ ] **Chapter 09:** Magnetism, Relays, Solenoids & DC Motors
+- [ ] **Chapter 10:** Inductance, Inductors & $LR$ Time Constants
+- [ ] **Chapter 11:** Capacitance, Capacitors & $RC$ Time Constants
+
+---
+
+## 🛠️ Pillar 3: Bench Experiments & Builds (Hardware Lab)
+*Hands-on breadboard verification, schematics, and microcontroller code.*
+
+- [ ] Lesson 00: know the components , functions , work , how works
+- [ ] 
