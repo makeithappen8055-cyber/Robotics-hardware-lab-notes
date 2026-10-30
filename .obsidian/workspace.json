@@ -11,16 +11,13 @@
             "id": "ea40a18794be785a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Bench Experiments & Builds/Arduino Classes/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Untitled"
             }
           }
@@ -204,14 +201,14 @@
   },
   "active": "ea40a18794be785a",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Bench Experiments & Builds/Arduino Classes/know the components.md",
+    "Bench Experiments & Builds/Arduino Classes/Untitled.md",
+    "Untitled.canvas",
     "2026-10-28.md",
     "README.md",
     "Bench Experiments & Builds/Arduino Classes/know the components.md.md",
     "First-Principles-Physics/DUMP THE CONCEPT.md.md",
     "TO LEARN ( Electric-Phy ).md",
-    "Bench Experiments & Builds/Arduino Classes/Untitled.md",
     "Bench Experiments & Builds/Arduino Classes/Untitled 1.md",
     "Bench Experiments & Builds/know the components.md.md",
     "Bench Experiments & Builds/Arduino Classes",
