@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bench Experiments & Builds/Arduino Classes/Hardware_working_knowledge/know the components..md",
+                "file": "Bench Experiments & Builds/Arduino Classes/Projects/Project01 (Blinking light).md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "know the components."
+              "title": "Project01 (Blinking light).md"
             }
           }
         ]
@@ -202,7 +202,10 @@
   "active": "ea40a18794be785a",
   "lastOpenFiles": [
     "Bench Experiments & Builds/Arduino Classes/Coding_fundamentals/Arduino C++ Syntax & Core Structure.md.md",
-    "Bench Experiments & Builds/Arduino Classes/Hardware_working_knowledge/know the components..md",
+    "Bench Experiments & Builds/Arduino Classes/Hardware_working_knowledge/know the components.md.md",
+    "day_2_led_circuit_and_basic_programming.md",
+    "Bench Experiments & Builds/Arduino Classes/Projects/Project01 (Blinking light).md.md",
+    "Bench Experiments & Builds/Arduino Classes/Projects",
     "Bench Experiments & Builds/Arduino Classes/Hardware_working_knowledge",
     "Bench Experiments & Builds/Arduino Classes/Coding_fundamentals",
     "Untitled.canvas",
@@ -234,7 +237,6 @@
     "First-Principles-Physics",
     "Text-Theory-book/DUMP THE CONCEPT.md",
     "Text-Theory-book/Electronics - 01/The Formula sheet.md",
-    "Text-Theory-book/Untitled",
-    "Text-Theory-book/Electronics - 01"
+    "Text-Theory-book/Untitled"
   ]
 }
