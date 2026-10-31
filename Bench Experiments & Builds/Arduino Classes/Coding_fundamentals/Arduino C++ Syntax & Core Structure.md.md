@@ -2,7 +2,7 @@
 ---
 
 **Source** : "https://craftingtable.com/courses/30-days-lost-in-space/lessons/2" 
-**Curriculum** : "**CraftingTable** — 30 Days Lost in Space (Day 1: Incoming Broadcast)"
+# Day 1:  : "**CraftingTable** — 30 Days Lost in Space "
 
 ---
 
